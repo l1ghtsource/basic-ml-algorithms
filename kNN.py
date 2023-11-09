@@ -2,7 +2,6 @@ import numpy as np
 
 
 class KNearestNeighbor:
-
     def __init__(self):
         pass
 
